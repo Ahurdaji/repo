@@ -1,0 +1,8 @@
+Product Name: Shirt
+Price: 200
+Quantity: 20
+----------------------
+Product Name: Cap
+Price: 200
+Quantity: 22
+----------------------
